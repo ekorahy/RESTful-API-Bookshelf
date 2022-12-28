@@ -4,7 +4,7 @@
   "description": "Bookshelf API",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/server.js",
+    "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
   "author": "Eko Rahayu Widodo",
